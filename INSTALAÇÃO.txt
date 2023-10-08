@@ -1,0 +1,43 @@
+GUIA DE INSTALAÇÃO: BioLab (Desenvolvido por Kelvin Santos -> Github: @D3dware)
+----------------------------------------------
+
+1º- Certifique-se de cumprir os requisitos (ter o Java e o WinRar Instalado em seu computador);
+
+(Essa aplicação é compatível apenas em Sistemas Operacionais Windows e não é multiplataforma até o momento)
+
+
+2º- Baixe o arquivo BioLab.rar e posicione ele aonde deseja instalar o BioLab, em seguida com o botão direito do mouse clique em "Extrair Aqui";
+
+(https://drive.google.com/file/d/1X4Gvdi8c0Co4ys-jpUM20KN0KrLxSGkO/view?usp=drive_link)
+
+
+3º- Após a extração dos arquivos, será criado uma pasta chamada "BioLab";
+
+(ATENÇÃO! É de suma importância que nenhum dos arquivos nessa pasta sejam renomeados, deletados ou movidos para outros locais, caso isso ocorra
+o programa poderá não funcionar)
+
+
+4º- Dentro da pasta "BioLab" terá o arquivo "BioLab.exe", clique com o botão direito do mouse e em seguida selecione "Enviar para" e escolha "Area de Trabalho";
+
+
+5º- Em sua Area de trabalho (Desktop), clique duas vezes no arquivo do BioLab e ele será executado, lembre-se de fornecer permissão de Administrador;
+
+(Lembre-se que apesar de ele estar em sua área de trabalho a pasta raiz do programa ficará aonde você extraiu os arquivos do BioLab.rar, portanto todo e qualquer
+arquivo gerado e utilizado pelo BioLab, ficará na pasta BioLab que você extraiu)
+
+
+6º- Aproveite seu BioLab!!! Muito Obrigado pelo seu apoio.
+
+(Lembre-se também de ler "BioLab - Documentação do Usuário.pdf" dentro da pastra "BioLab", lá conterá todos os detalhes do programa)
+
+(Para desinstalação, apenas Delete o arquivo da area de trabalho e a pasta BioLab extraida do BioLab.rar, lembre-se de apaga-los de sua lixeira depois)
+
+(Por Favor não divulgar os arquivos do BioLab, forneça para outras pessoas interessadas, o link pelo qual você o baixou ou meu perfil do Github, agradeço a compreensão).
+
+---------------------------------------------
+
+Esse Programa foi desenvolvido com o propósito de estudo apenas! com ele é possível o gerenciamento de amostras de laboratórios de pesquisa, fazer análises Bioestatisticas
+principais e auxiliar no controle de qualidade na calibração de equipamentos de laboratório.
+
+
+Para Duvidas e Suporte: Entre em contato pelo chat no meu Linkedin, você poderá encontra-lo em meu Github.
