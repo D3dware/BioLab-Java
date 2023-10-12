@@ -1,43 +1,51 @@
-GUIA DE INSTALA«√O: BioLab (Desenvolvido por Kelvin Santos -> Github: @D3dware)
+GUIA DE INSTALA√á√ÉO: BioLab (Desenvolvido por Kelvin Santos -> Github: @D3dware)
 ----------------------------------------------
 
-1∫- Certifique-se de cumprir os requisitos (ter o Java e o WinRar Instalado em seu computador);
+1¬∫- Certifique-se de cumprir os requisitos (ter o Java e o WinRar Instalado em seu computador);
 
-(Essa aplicaÁ„o È compatÌvel apenas em Sistemas Operacionais Windows e n„o È multiplataforma atÈ o momento)
+(Essa aplica√ß√£o √© compat√≠vel apenas em Sistemas Operacionais Windows e n√£o √© multiplataforma at√© o momento)
 
 
-2∫- Baixe o arquivo BioLab.rar e posicione ele aonde deseja instalar o BioLab, em seguida com o bot„o direito do mouse clique em "Extrair Aqui";
+2¬∫- Baixe o arquivo BioLab.rar e posicione ele aonde deseja instalar o BioLab, em seguida com o bot√£o direito do mouse clique em "Extrair Aqui";
 
 (https://drive.google.com/file/d/1X4Gvdi8c0Co4ys-jpUM20KN0KrLxSGkO/view?usp=drive_link)
 
 
-3∫- ApÛs a extraÁ„o dos arquivos, ser· criado uma pasta chamada "BioLab";
+3¬∫- Ap√≥s a extra√ß√£o dos arquivos, ser√° criado uma pasta chamada "BioLab";
 
-(ATEN«√O! … de suma import‚ncia que nenhum dos arquivos nessa pasta sejam renomeados, deletados ou movidos para outros locais, caso isso ocorra
-o programa poder· n„o funcionar)
-
-
-4∫- Dentro da pasta "BioLab" ter· o arquivo "BioLab.exe", clique com o bot„o direito do mouse e em seguida selecione "Enviar para" e escolha "Area de Trabalho";
+(ATEN√á√ÉO! √â de suma import√¢ncia que nenhum dos arquivos nessa pasta sejam renomeados, deletados ou movidos para outros locais, caso isso ocorra
+o programa poder√° n√£o funcionar)
 
 
-5∫- Em sua Area de trabalho (Desktop), clique duas vezes no arquivo do BioLab e ele ser· executado, lembre-se de fornecer permiss„o de Administrador;
-
-(Lembre-se que apesar de ele estar em sua ·rea de trabalho a pasta raiz do programa ficar· aonde vocÍ extraiu os arquivos do BioLab.rar, portanto todo e qualquer
-arquivo gerado e utilizado pelo BioLab, ficar· na pasta BioLab que vocÍ extraiu)
+4¬∫- Dentro da pasta "BioLab" ter√° o arquivo "BioLab.exe", clique com o bot√£o direito do mouse e em seguida selecione "Enviar para" e escolha "Area de Trabalho";
 
 
-6∫- Aproveite seu BioLab!!! Muito Obrigado pelo seu apoio.
+5¬∫- Em sua Area de trabalho (Desktop), clique duas vezes no arquivo do BioLab e ele ser√° executado, lembre-se de fornecer permiss√£o de Administrador;
 
-(Lembre-se tambÈm de ler "BioLab - DocumentaÁ„o do Usu·rio.pdf" dentro da pastra "BioLab", l· conter· todos os detalhes do programa)
+(Lembre-se que apesar de ele estar em sua √°rea de trabalho a pasta raiz do programa ficar√° aonde voc√™ extraiu os arquivos do BioLab.rar, portanto todo e qualquer
+arquivo gerado e utilizado pelo BioLab, ficar√° na pasta BioLab que voc√™ extraiu)
 
-(Para desinstalaÁ„o, apenas Delete o arquivo da area de trabalho e a pasta BioLab extraida do BioLab.rar, lembre-se de apaga-los de sua lixeira depois)
 
-(Por Favor n„o divulgar os arquivos do BioLab, forneÁa para outras pessoas interessadas, o link pelo qual vocÍ o baixou ou meu perfil do Github, agradeÁo a compreens„o).
+6¬∫- Aproveite seu BioLab!!! Muito Obrigado pelo seu apoio.
+
+(Lembre-se tamb√©m de ler "BioLab - Documenta√ß√£o do Usu√°rio.pdf" dentro da pastra "BioLab", l√° conter√° todos os detalhes do programa)
+
+(Para desinstala√ß√£o, apenas Delete o arquivo da area de trabalho e a pasta BioLab extraida do BioLab.rar, lembre-se de apaga-los de sua lixeira depois)
+
+(Por Favor n√£o divulgar os arquivos do BioLab, forne√ßa para outras pessoas interessadas, o link pelo qual voc√™ o baixou ou meu perfil do Github, agrade√ßo a compreens√£o).
 
 ---------------------------------------------
 
-Esse Programa foi desenvolvido com o propÛsito de estudo apenas! com ele È possÌvel o gerenciamento de amostras de laboratÛrios de pesquisa, fazer an·lises Bioestatisticas
-principais e auxiliar no controle de qualidade na calibraÁ„o de equipamentos de laboratÛrio.
+Esse Programa foi desenvolvido com o prop√≥sito de estudo apenas! com ele √© poss√≠vel o gerenciamento de amostras de laborat√≥rios de pesquisa, fazer an√°lises Bioestatisticas
+principais e auxiliar no controle de qualidade na calibra√ß√£o de equipamentos de laborat√≥rio.
 
 
-Para Duvidas e Suporte: Entre em contato pelo chat no meu Linkedin, vocÍ poder· encontra-lo em meu Github.
+Para Duvidas e Suporte: Entre em contato pelo chat no meu Linkedin, voc√™ poder√° encontra-lo em meu Github.
+
+---------------------------------------------
+
+Aos Dev's:
+
+O meu Projeto Java SE do NetBeans IDE est√° disponiel pelo link abaixo apenas:
+
+https://drive.google.com/file/d/1Bk7kHv-P90a-gO2cOSur1w4BHgLnBR1A/view?usp=sharing
